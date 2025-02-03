@@ -38,11 +38,11 @@ The dataset used for this project consists of historical stock market prices, in
 ## Results
 The three models are compared based on prediction accuracy and error metrics.
 
-| Model | MSE | RMSE | R-squared |
-|--------|--------|--------|--------|
-| Linear Regression | XX.XX | XX.XX | XX.XX |
-| LSTM | XX.XX | XX.XX | XX.XX |
-| Improved LSTM | XX.XX | XX.XX | XX.XX |
+| Model | MSE | RMSE | 
+|--------|--------|--------|
+| Linear Regression | 08.13 | 00.28 |
+| LSTM | 00.27 | 00.05 |
+| Improved LSTM | 00.13 | 00.03 |
 
 ## Visualizations
 The output graphs comparing actual vs. predicted prices for each model are stored in the `images/` folder. To add them, place the images in:
